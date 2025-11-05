@@ -1,0 +1,5 @@
+{
+  "name": "ClinicSys",
+  "description": "A modern, responsive web application for managing clinic appointments. Patients can book appointments with available doctors, and administrators can manage doctors, patients, and appointments through a comprehensive dashboard.",
+  "requestFramePermissions": []
+}
